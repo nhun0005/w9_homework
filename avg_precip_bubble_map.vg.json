@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 450,
-    "height": 350,
+    "width": 600,
+    "height": 400,
     "title": "Average Precipitation (mm) in Cities Around the World (Aug 29-Sept 18)",
     "projection": {"type": "equalEarth"},
     "layer": [
